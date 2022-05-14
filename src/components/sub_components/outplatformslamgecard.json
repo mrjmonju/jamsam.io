@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "images/ourplatforms/E-commerce-JamGo.jpg",
+    "title": "e-Store",
+    "details": "Enterprise level e-commerce platform for online stores and retail POS systems. JamGO Ecommerce solution includes Full shipping & Payment integration. Multi-currency & multi-Language capabilities & CMS.",
+    "buttonContent": "CREATE STORE"
+  },
+  {
+    "id": 2,
+    "image": "images/ourplatforms/E-commerce-JamMax.jpg",
+    "title": "Business Portals",
+    "details": "Premium ecommerce & CMS portals with cross-platform enterprise level applications. Automate & Manage your growing business better using HR, CRM, Accounts & Financial Management fully integrated.",
+    "buttonContent": "GROW BUSINESS"
+  },
+  {
+    "id": 3,
+    "image": "images/ourplatforms/E-commerce-JamMall.jpg",
+    "title": "Marketplace",
+    "details": "Discover awesome products from local producers. Sell to International buyers looking for bargains & deals. Sellers can list their products and have their products featured and managed from JamGO dashboard.",
+    "buttonContent": "LIST BUSINESS"
+  },
+  {
+    "id": 4,
+    "image": "images/ourplatforms/Super-Apps-JamConstra.png",
+    "title": "Real Estates",
+    "details": "Cutting edge technology paring Ai based CRM for real estate platform. We make search and selling experience seamless whilst Improving supply chain on demand construction projects & platform for the construction industry.",
+    "buttonContent": "START PROJECT"
+  },
+  {
+    "id": 5,
+    "image": "images/ourplatforms/Super-Apps-JamExpress.png",
+    "title": "E-Export",
+    "details": "The first ever concept of halal drop-shipping by bringing together the power of eCommerce, opportunities of exporting & growth model of franchising within the principles of Salaam transaction between the seller & Merchant. ",
+    "buttonContent": "NEW MARKETS"
+  },
+  {
+    "id": 6,
+    "image": "images/ourplatforms/Super-Apps1-JamPay.png",
+    "title": "E-Wallet",
+    "details": "Safe, secure and most reliable online e-wallet system for payments integrated with all major payment providers & Payment processors with focus on  digital system for connecting our Merchants with global buyers.",
+    "buttonContent": "GET PAID"
+  },
+  {
+    "id": 7,
+    "image": "images/ourplatforms/E-Learning-JamInstitute-640x1024.png",
+    "title": "Body of Knowledge",
+    "details": "JamInstitute is the body of knowledge. JamInstitute provides the curriculums, assignments, quizzes and articles. Jam Institute publishes teaching, training and learning materials to Jam Academy and Jam Learn as well as providing capstone projects, assessments and certifications.",
+    "buttonContent": "TEACH ONLINE"
+  },
+  {
+    "id": 8,
+    "image": "images/ourplatforms/E-Learning-JamLearn.png",
+    "title": "E-Learning",
+    "details": "Google Cloud-based highly secured Learning Management System (LMS) for Schools and Universities makes teaching easier. Connect your school to online & modern teaching with latest technologies.",
+    "buttonContent": "SHARE SKILLS"
+  },
+  {
+    "id": 9,
+    "image": "images/ourplatforms/E-Learning-JamAcademy.png",
+    "title": "E-Career",
+    "details": "Include training, online learning, and competency courses in the career path of the LMS platform. Even more learners are preparing themselves for in-demand careers in the digital economy.",
+    "buttonContent": "MEET UP"
+  }
+]

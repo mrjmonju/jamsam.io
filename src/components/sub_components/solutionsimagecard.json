@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "images/solutions/grow your business.jpg",
+    "brandLogo": "images/solutions/consult-for-global-age-2.png",
+    "title": "Business Development",
+    "details": "Working together, we help firms of all sizes to achieve more. We believe it’s our relationships with others that lead us to achieve goals beyond those we could ever achieve alone. Our vision to support Global businesses to build relationships on every level. Across our network, we can connect your business locally, nationally and internationally, with other businesses, with decision-makers and with opportunities.",
+    "buttonContent": "DEVELOP BUSINESS"
+  },
+  {
+    "id": 2,
+    "image": "images/solutions/marketing solutions.jpg",
+    "brandLogo": "images/solutions/media-for-social-age.png",
+    "title": "Market Development",
+    "details": "We work with you to promote your products and services to your target audience effectively. We establish, solidify your brand, develop your website and create google ads campaigns. Web Design & Development. Motion We are a digital media agency for the social age. Based in offices around the globe, we cater to local and multinational clients who market their brands to consumers.",
+    "buttonContent": "DEVELOP BRAND"
+  },
+  {
+    "id": 3,
+    "image": "images/solutions/turnkey technologies.jpg",
+    "brandLogo": "images/solutions/soft-for-digital-age-2.png",
+    "title": "Product Development",
+    "details": "We save time and money for our clients to scale with their businesses with more built-in solutions than other leading providers, JamSoft gives you the power to grow your IT Infrastructure from day one.  We believe in unlocking business value through the delivery of measurable high quality software products, platforms and IT solutions for websites, mobile, desktop and cloud applications.",
+    "buttonContent": "DEVELOP PRODUCT"
+  }
+]

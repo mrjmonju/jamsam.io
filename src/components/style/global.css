@@ -1,0 +1,48 @@
+:root {
+  --primary: #7e7579;
+  --secoundary: #242a56;
+  --off_white: #f5f7fa;
+  --bg-color: #505578;
+  --hr-color: #6878d6;
+}
+
+.b-g-primary {
+  background-color: var(--primary);
+}
+
+.hr-color {
+  background-color: var(--hr-color);
+}
+
+.b-g-color {
+  background-color: var(--bg-color);
+}
+
+.b-g-off-white {
+  background-color: var(--off_white);
+}
+
+.heading-color {
+  color: var(--secoundary);
+}
+
+.margin-l {
+  margin-left: 30px !important;
+}
+
+.background-image {
+  background-image: url(./../../../public/images/hero.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #00000075;
+  background-blend-mode: overlay;
+}
+.line-height {
+  line-height: 76px !important;
+}
+@media (max-width: 767px) {
+  .line-height {
+    line-height: 38px !important;
+  }
+}

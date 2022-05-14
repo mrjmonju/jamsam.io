@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "images/globalpresence/dubai.jpg",
+    "country": "UAE",
+    "address": "Emirates Towers, Dubai",
+    "alt": "dubai.jpg"
+  },
+  {
+    "id": 2,
+    "image": "images/globalpresence/jeddah.jpg",
+    "country": "Saudi Arabia",
+    "address": "Madina Road, Jeddah",
+    "alt": "Jeddah.jpg"
+  },
+  {
+    "id": 3,
+    "image": "images/globalpresence/istanbul.jpg",
+    "country": "Turkey",
+    "address": "Brosprous, Istanbul",
+    "alt": "Istanbul.jpg"
+  },
+  {
+    "id": 4,
+    "image": "images/globalpresence/london.jpg",
+    "country": "UK",
+    "address": "Hatton Garden, London",
+    "alt": "London.jpg"
+  },
+  {
+    "id": 5,
+    "image": "images/globalpresence/capital-egypt.jpg",
+    "country": "Egypt",
+    "address": "Capital Business Park, Cairo",
+    "alt": "Cairo.jpg"
+  },
+  {
+    "id": 6,
+    "image": "images/globalpresence/Libya.jpg",
+    "country": "Libya",
+    "address": "Emirates Town, Tripoli",
+    "alt": "Tripoli.jpg"
+  }
+]
